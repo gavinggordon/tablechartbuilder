@@ -1,3 +1,50 @@
 {
-
+	"name": "gavinggordon/tablechartbuilder",
+	"description": "Create dynamic HTML tables that can calculate column data, like Excel, and look good doing it, with or without CSS Boostrap.",
+	"license": "MIT",
+	"keywords": [
+	  	"v0.1",
+		"php",
+		"html",
+		"html5",
+		"chart",
+		"table",
+		"excel",
+		"builder",
+		"helper",
+		"bootstrap",
+		"data",
+		"calculation",
+		"columns",
+		"rows"
+	],
+	"authors": [
+		{
+			"name": "Gavin G Gordon",
+			"email": "support@gavingordon.com",
+			"homepage": "https://gavingordon.com",
+			"role": "Developer"
+		}
+	],
+	"version": "0.1",
+	"minimum-stability": "stable",
+	"support": {
+		"issues": "https://github.com/gavinggordon/tablechartbuilder/issues",
+		"source": "https://github.com/gavinggordon/tablechartbuilder"
+	},
+	"repositories": [
+		{
+			"type": "git",
+			"url": "https://github.com/gavinggordon/tablechartbuilder.git"
+		}
+	],
+	"require": {},
+	"require-dev": {
+		"phpunit/phpunit": "4.0.*"
+	},
+	"autoload": {
+			"psr-4": {
+				"GGG\\Html\\Builders\\": "src"
+		}
+	}
 }
