@@ -1,4 +1,8 @@
-# GGG\TableChartBuilder
+# TableChartBuilder v1.0.6
+
+[![Build Status](https://travis-ci.org/gavinggordon/tablechartbuilder.svg?branch=master)](https://travis-ci.org/gavinggordon/tablechartbuilder)
+
+----------
 
 ## Description
 This php class package allows you to create dynamic HTML tables that can calculate column data, like Excel, and look good doing it. Although it is compatible with CSS Bootstrap 3+, Bootstrap is not required for the resulting table to be both responsive, as well as styled beautifully.
@@ -39,3 +43,4 @@ This php class package allows you to create dynamic HTML tables that can calcula
 	echo $html;
 ```
 
+xyTULWSDx5DT130FQsH7
