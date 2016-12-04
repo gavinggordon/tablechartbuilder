@@ -26,7 +26,7 @@ class TableChartBuilderTest extends \PHPUnit_Framework_TestCase
           ],
           'equation' => ['highest','lowest','average','total']
         ];
-        $bschart = new TableChartBuilder( 0, 1 );
+        $bschart = new TableChartBuilder( 1, 1 );
         $bschart->configure( $bsconfigs );
         $actual = $bschart->render();
         $expected =<<<EOE
