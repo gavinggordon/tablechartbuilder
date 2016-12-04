@@ -34,7 +34,7 @@ class TableChartBuilderTest extends \PHPUnit_Framework_TestCase
       <h2 class="text-center">Bootstrap Table Chart</h2>
     </div>
     <div class="table-responsive">
-      <table id="non-BootstrapTableChartTable" class="table table-hover table-bordered">
+      <table id="bootstrapTableChartTable" class="table table-hover table-bordered">
         <thead>
           <tr>
             <th class="text-center">
