@@ -214,6 +214,8 @@ class TableChartBuilderTest extends \PHPUnit_Framework_TestCase
       </table>
     </div>
 EOE;
+
+        $expected = trim( $expected );
         $this->assertSame( $expected, $actual );
     }
 
@@ -422,6 +424,7 @@ EOE;
     </div>
 EOE;
 
+        $expected = trim( $expected );
         $this->assertSame( $expected, $actual );
     }
 
