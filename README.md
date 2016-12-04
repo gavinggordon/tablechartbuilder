@@ -9,6 +9,11 @@ This php class package allows you to create dynamic HTML tables that can calcula
 
 ### How to Use
 
+#### Install
+```
+	$ composer require gavinggordon/tablechartbuilder
+```
+
 #### Autoload
 ``` php
 	include( 'vendor/autoload.php' );
