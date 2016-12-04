@@ -3,7 +3,7 @@
 	"description": "Create dynamic HTML tables that can calculate column data, like Excel, and look good doing it, with or without CSS Boostrap.",
 	"license": "MIT",
 	"keywords": [
-	  	"v1.0.3",
+	  	"v1.0.4",
 		"php",
 		"html",
 		"html5",
@@ -26,7 +26,7 @@
 			"role": "Developer"
 		}
 	],
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"minimum-stability": "stable",
 	"support": {
 		"issues": "https://github.com/gavinggordon/tablechartbuilder/issues",
