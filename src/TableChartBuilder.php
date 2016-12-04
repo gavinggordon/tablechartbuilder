@@ -104,7 +104,7 @@ class TableChartBuilder extends Table
   public function render()
   {
     $html = $this->setup();
-    return $html;
+    return rtrim( $html );
   }
 
 }
