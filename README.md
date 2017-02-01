@@ -48,4 +48,12 @@ This php class package allows you to create dynamic HTML tables that can calcula
 	echo $html;
 ```
 
-xyTULWSDx5DT130FQsH7
+--------------
+
+#### More Information
+
+##### PHP Innovation Award
+
+This [class](http://www.phpclasses.org/package/10069.html) has been awarded a PHP Innovation Award, provided by [PHPClasses.org](http://www.phpclasses.org). My other PHP classes are accessible online via my [GitHub profile](https://github.com/gavinggordon) or [PHPClasses.org profile](http://www.phpclasses.org/browse/author/1348645.html).
+
+--------------
